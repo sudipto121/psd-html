@@ -111,6 +111,9 @@ textarea {
 .navbar-default .navbar-nav>li>a:hover{
     color: #EA6660;
 }
+.navbar-default .navbar-nav>li>a.active{
+    color: #EA6660;
+}
 .navbar{
     padding: 15px 0;
     margin-bottom: 0;
